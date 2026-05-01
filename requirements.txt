@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+requests==2.31.0
+bcrypt==4.0.1
+matplotlib==3.7.2
+pillow==10.0.0
